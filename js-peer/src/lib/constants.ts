@@ -10,6 +10,6 @@ export const MIME_TEXT_PLAIN = 'text/plain'
 
 // 👇 App specific dedicated bootstrap PeerIDs
 // Their multiaddrs are ephemeral so peer routing is used to resolve multiaddr
-export const WEBTRANSPORT_BOOTSTRAP_PEER_ID = '12D3KooWFhXabKDwALpzqMbto94sB7rvmZ6M28hs9Y9xSopDKwQr'
+export const WEBTRANSPORT_BOOTSTRAP_PEER_ID = 'QmNnooDu7bfjPFoTZYxMNLWUQJWPf1V326Wrs8k4ukGkC1'
 
 export const BOOTSTRAP_PEER_IDS = [WEBTRANSPORT_BOOTSTRAP_PEER_ID]
